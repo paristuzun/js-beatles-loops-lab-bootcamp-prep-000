@@ -19,7 +19,7 @@ function johnLennonFacts(facts) {
      }
      
      return jfacts;
-   
+  
 }
 
 function iLoveTheBeatles(num) {
