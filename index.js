@@ -31,8 +31,8 @@ function iLoveTheBeatles(number) {
       }
     
     while (number < 15) {
-      return "I love the Beatles!";
+      return array;
     }
     
-    return number;
+  
 }
