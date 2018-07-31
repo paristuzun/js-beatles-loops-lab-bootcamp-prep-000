@@ -16,6 +16,8 @@ function johnLennonFacts(facts) {
      "He hated the sound of his own voice"
      ];
      
+  let i = 0;   
+     
      while ()
    
 }
