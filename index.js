@@ -20,6 +20,7 @@ function johnLennonFacts(facts) {
      
      while (i < facts.length) {
        jfacts.push(facts[i] + "!!!");
+       i++
      }
    
 }
